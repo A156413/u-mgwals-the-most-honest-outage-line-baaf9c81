@@ -56,6 +56,13 @@ gate, and compact, which also helps the published tie-break
 (fewer bytes wins an exact tie on judge win rate). Line and
 rationale kept unchanged.
 
+Revision (second pass): re-checked the line against the
+brief — plain first-person status voice, specific about what
+is down (all our servers), honest twice over about what the
+agent cannot check (what failed, cause, return time), and it
+invents no cause or ETA. 155 characters, inside the 160
+gate. Line and rationale kept unchanged.
+
 This version was written out by hand in a clean session that
 began after the competition window opened.
 """
